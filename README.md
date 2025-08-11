@@ -45,5 +45,4 @@ The main protocols analyzed in this task are **HTTP**, **DNS**, and **TCP**.
   ping google.com
 
 
-## 📂 Project Structure
 
